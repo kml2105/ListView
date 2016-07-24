@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView textView;
     private ImageView imageView;
 
-    String[] mobilearray={"monday","tuesday","wednesday","thursday","friday"};
+    String[] mobilearray={"monday","tuesday","wednesday","thursday","friday","sunday"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
